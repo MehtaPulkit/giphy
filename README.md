@@ -211,5 +211,3 @@ The project is built using the following technologies:
 4. **Testing Coverage:** 
    - Adding more unit and integration tests, especially for the API calls, state management logic, and UI components, would ensure greater reliability and maintainability of the app in the long term.
 
-
->>>>>>> fb5f6cf5745f6d9d91161dc762f9884fb13412ee
