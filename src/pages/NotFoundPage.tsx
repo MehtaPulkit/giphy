@@ -1,11 +1,11 @@
-import React from 'react';
+import React from "react";
 import { Link } from "react-router-dom";
 
-const NotFoundPage:React.FC = () => {
+const NotFoundPage: React.FC = () => {
   return (
-    <main className="p-4 bg-gray-800 h-screen pt-24">
+    <main className="p-4 bg-gray-800 p-24">
       <div className="text-center">
-        <p className="text-base font-semibold text-blue-100">404</p>
+        <p className="text-2xl font-semibold text-red-600">404</p>
         <h1 className="mt-4 text-3xl font-bold tracking-tight text-gray-100 sm:text-5xl">
           Page not found
         </h1>
