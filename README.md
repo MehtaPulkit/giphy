@@ -26,7 +26,6 @@ The project is built using the following technologies:
 - **LocalStorage** for persisting saved GIFs across sessions
 
 ## Setup and Installation
-<<<<<<< HEAD
 
 ### Prerequisites
 
