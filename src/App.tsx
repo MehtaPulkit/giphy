@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import { QueryClient, QueryClientProvider } from "react-query";  // Import React Query
+import { QueryClient, QueryClientProvider } from "react-query"; 
 import SearchPage from "./pages/SearchPage";
 import SavedPage from "./pages/SavedPage";
 import Layout from "./components/Layout";

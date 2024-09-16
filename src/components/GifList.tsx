@@ -6,7 +6,7 @@ import ErrorComponent from "../components/ErrorComponent";
 import { GifResponse } from "../types/GiphyTypes";
 
 interface GifListProps {
-  title: React.ReactNode; // Changed from string to React.ReactNode
+  title: React.ReactNode;
   gifs: GifResponse[];
   isLoading: boolean;
   error: Error | null;

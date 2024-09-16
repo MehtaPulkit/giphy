@@ -1,7 +1,7 @@
 import React from 'react';
 
 interface ErrorComponentProps {
-  children: React.ReactNode; // Correctly typing children
+  children: React.ReactNode;
 }
 
 const ErrorComponent: React.FC<ErrorComponentProps> = ({ children }) => {
